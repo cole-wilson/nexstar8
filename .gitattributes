@@ -1,0 +1,6 @@
+photos/model.jpeg filter=lfs diff=lfs merge=lfs -text
+photos/plugin.png filter=lfs diff=lfs merge=lfs -text
+photos/rs232port.jpeg filter=lfs diff=lfs merge=lfs -text
+photos/config.jpg filter=lfs diff=lfs merge=lfs -text
+photos/example.jpg filter=lfs diff=lfs merge=lfs -text
+photos/mode.jpeg filter=lfs diff=lfs merge=lfs -text
