@@ -9,6 +9,8 @@
 4. A RS-232 Serial adapter cable. The [one I used is from Amazon](https://www.amazon.com/gp/product/B08KRSKD2C/) and works quite well. Make sure to get one that uses the FTDI chipset for best results!
 
 ## Setup
+(for more detailed code install instructions: follow along step-by-step with issue [#1](https://github.com/cole-wilson/nexstar8/issues/1) or make a new issue)
+
 1. Connect the RS-232 serial/USB cable to the RJ9 jack at the bottom of the Hand Controller:
 
    ![RJ9 Jack on hand controller](./photos/rs232port.jpeg)
